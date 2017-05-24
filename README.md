@@ -2,7 +2,15 @@ This repo will (eventually) house the code for an opsec 101 reference site that 
 
 Watch this space for more and contribute ideas in the Issues.
 
+I may also decide to draw some illustrations and make it more like a zine site, because who doesn't like pictures, right? 
+
+
+### Context
+
+- The content should be approachable enough for kids to understand, but never dumbed down or pandering. 
+
+
 ### Requirements
 
 - The point is not to scare people into not sharing any information, the point is to educate them so they can make their own informed choices about what they share
-- Every point raised should have a clear example of how the information disclosure can be used against someone. 
+- Every point raised should have a clear example of how the information disclosure can be used against someone. If you're not sure how to phrase it in a way that matches the context requirements, just post an issue with your idea and we'll work on it together.
