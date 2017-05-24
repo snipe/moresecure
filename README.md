@@ -5,12 +5,9 @@ Watch this space for more and contribute ideas in the Issues.
 I may also decide to draw some illustrations and make it more like a zine site, because who doesn't like pictures, right? 
 
 
-### Context
+### Context / Requirements
 
 - The content should be approachable enough for kids to understand, but never dumbed down or pandering. 
-
-
-### Requirements
-
+- The goal is not a checklist. The goal is to help people learn how to think more critically about the information they share
 - The point is not to scare people into not sharing any information, the point is to educate them so they can make their own informed choices about what they share
 - Every point raised should have a clear example of how the information disclosure can be used against someone. If you're not sure how to phrase it in a way that matches the context requirements, just post an issue with your idea and we'll work on refining it together.
